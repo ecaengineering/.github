@@ -17,6 +17,8 @@ We're a Denmark-based engineering company building process models and apps for t
  
 ECA Engineering ApS is supported by the European Union.
 
+<img width="200" alt="billede" src="https://github.com/user-attachments/assets/c6ddea2f-e811-49d7-9b23-f33e2f7080b4" />
+
 ## 📍 Find us
  
 - 🌐 [ecaengineering.dk](https://ecaengineering.dk)
