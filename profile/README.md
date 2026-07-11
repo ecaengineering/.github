@@ -9,7 +9,7 @@ We're a Denmark-based engineering company building process models and apps for t
 - **Amine Process App for Carbon Capture** - modeling based on the MEA-H2O-CO2 liquid-gas system to optimize tower, pump, and heat exchanger sizing
 - **Cement Kiln App** - energy and mass balance modeling for rotary kilns, calciners, and cyclone preheater towers
 - **SOx Scrubber App** - modeling of the H2O-SO2-CO2 system to optimize water flow and chemical dosing, drawing on 15+ years of experience with marine scrubbers
-- **CO2 Compression & Liquefaction App** — thermodynamic modeling (Peng Robinson, UNIFAC, REFPROP) to evaluate power requirements and impurity impacts
+- **CO2 Compression & Liquefaction App** - thermodynamic modeling (Peng Robinson, UNIFAC, REFPROP) to evaluate power requirements and impurity impacts
 
 ## 🧪 Who we are
  
